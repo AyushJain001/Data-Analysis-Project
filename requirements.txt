@@ -5,5 +5,3 @@ urlextract
 wordcloud
 pandas
 emoji
-collections
-gunicorn
