@@ -27,7 +27,9 @@ This project is a  *Whatsapp Chat Analyzer* project where user can export either
 
 7- Heat-Map
 
-Application runs on streamlit and deployed on heroku :
+-Application runs on streamlit( An open-source platform for machine learning and data science teams to create data applications with python) and deployed on heroku 
+
+
 https://chat-analysis-ayushjain.herokuapp.com/
 
 
