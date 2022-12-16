@@ -1,4 +1,4 @@
-Project Workflow-->
+Project Understanding
 
 *WhatsApp Chat Analyzer*--->>>
 
@@ -22,7 +22,7 @@ This project is a  *Whatsapp Chat Analyzer* project where user can export either
 5-most common words using in chat(Top 25),
 
 
-6-emoji Analysis,,
+6-emoji Analysis,
 
 
 7- Heat-Map
