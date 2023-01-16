@@ -1,6 +1,20 @@
 Project Understanding
 
-*WhatsApp Chat Analyzer*--->>>
+The analysts organized those tasks and activities around the six phases of the data analysis process:
+
+1-Ask
+
+2-Prepare
+
+3-Process
+
+4-Analyze
+
+5-Share
+
+6-Act
+
+ *WhatsApp Chat Analyzer*
 
 This project is a  *Whatsapp Chat Analyzer* project where user can export either personal or group chat in text file and save it in its system and when uploading on application it gives you complete statistics of conversation between or among people and gives user analysis report which he/she may analyse and use for future use.
 
