@@ -1,4 +1,4 @@
-Project Understanding
+ Basic Project Understanding/Workflow
 
 The analysts organized those tasks and activities around the six phases of the data analysis process:
 
